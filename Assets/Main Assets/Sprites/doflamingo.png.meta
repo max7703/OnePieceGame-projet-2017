@@ -1,0 +1,5102 @@
+fileFormatVersion: 2
+guid: fa9a7beb5c617aa468510bd5890cdac8
+timeCreated: 1506433750
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: doflamingo_0
+    21300002: doflamingo_1
+    21300004: doflamingo_2
+    21300006: doflamingo_3
+    21300008: doflamingo_4
+    21300010: doflamingo_5
+    21300012: doflamingo_6
+    21300014: doflamingo_7
+    21300016: doflamingo_8
+    21300018: doflamingo_9
+    21300020: doflamingo_10
+    21300022: doflamingo_11_idle
+    21300024: doflamingo_12_idle
+    21300026: doflamingo_13_idle
+    21300028: doflamingo_14_idle
+    21300030: doflamingo_15_walk
+    21300032: doflamingo_16_walk
+    21300034: doflamingo_17_walk
+    21300036: doflamingo_18_walk
+    21300038: doflamingo_19_walk
+    21300040: doflamingo_20_walk
+    21300042: doflamingo_21_walk
+    21300044: doflamingo_22_walk
+    21300046: doflamingo_23
+    21300048: doflamingo_24
+    21300050: doflamingo_25
+    21300052: doflamingo_26
+    21300054: doflamingo_27
+    21300056: doflamingo_28
+    21300058: doflamingo_29
+    21300060: doflamingo_30
+    21300062: doflamingo_31
+    21300064: doflamingo_32
+    21300066: doflamingo_33
+    21300068: doflamingo_34
+    21300070: doflamingo_35
+    21300072: doflamingo_36
+    21300074: doflamingo_37
+    21300076: doflamingo_38
+    21300078: doflamingo_39
+    21300080: doflamingo_40_run
+    21300082: doflamingo_41_run
+    21300084: doflamingo_42_run
+    21300086: doflamingo_43_run
+    21300088: doflamingo_44_run
+    21300090: doflamingo_45_run
+    21300092: doflamingo_46
+    21300094: doflamingo_47
+    21300096: doflamingo_48
+    21300098: doflamingo_49
+    21300100: doflamingo_50
+    21300102: doflamingo_51
+    21300104: doflamingo_52
+    21300106: doflamingo_53_kick
+    21300108: doflamingo_54_kick
+    21300110: doflamingo_55_kick
+    21300112: doflamingo_56_kick
+    21300114: doflamingo_57
+    21300116: doflamingo_58
+    21300118: doflamingo_59
+    21300120: doflamingo_60
+    21300122: doflamingo_61
+    21300124: doflamingo_62
+    21300126: doflamingo_63
+    21300128: doflamingo_64
+    21300130: doflamingo_65
+    21300132: doflamingo_66
+    21300134: doflamingo_67
+    21300136: doflamingo_68
+    21300138: doflamingo_69
+    21300140: doflamingo_70
+    21300142: doflamingo_71
+    21300144: doflamingo_72
+    21300146: doflamingo_73
+    21300148: doflamingo_74
+    21300150: doflamingo_75
+    21300152: doflamingo_76
+    21300154: doflamingo_77
+    21300156: doflamingo_78
+    21300158: doflamingo_79
+    21300160: doflamingo_80
+    21300162: doflamingo_81
+    21300164: doflamingo_82
+    21300166: doflamingo_83
+    21300168: doflamingo_84
+    21300170: doflamingo_85
+    21300172: doflamingo_86
+    21300174: doflamingo_87
+    21300176: doflamingo_88
+    21300178: doflamingo_89
+    21300180: doflamingo_90
+    21300182: doflamingo_91
+    21300184: doflamingo_92
+    21300186: doflamingo_93
+    21300188: doflamingo_94
+    21300190: doflamingo_95
+    21300192: doflamingo_96
+    21300194: doflamingo_97
+    21300196: doflamingo_98
+    21300198: doflamingo_99
+    21300200: doflamingo_100
+    21300202: doflamingo_101
+    21300204: doflamingo_102
+    21300206: doflamingo_103
+    21300208: doflamingo_104
+    21300210: doflamingo_105
+    21300212: doflamingo_106
+    21300214: doflamingo_107
+    21300216: doflamingo_108
+    21300218: doflamingo_109
+    21300220: doflamingo_110
+    21300222: doflamingo_111
+    21300224: doflamingo_112
+    21300226: doflamingo_113
+    21300228: doflamingo_114
+    21300230: doflamingo_115
+    21300232: doflamingo_116
+    21300234: doflamingo_117
+    21300236: doflamingo_118
+    21300238: doflamingo_119
+    21300240: doflamingo_120
+    21300242: doflamingo_121
+    21300244: doflamingo_122
+    21300246: doflamingo_123
+    21300248: doflamingo_124
+    21300250: doflamingo_125
+    21300252: doflamingo_126
+    21300254: doflamingo_127
+    21300256: doflamingo_128
+    21300258: doflamingo_129
+    21300260: doflamingo_130
+    21300262: doflamingo_131
+    21300264: doflamingo_132
+    21300266: doflamingo_133
+    21300268: doflamingo_134
+    21300270: doflamingo_135
+    21300272: doflamingo_136
+    21300274: doflamingo_137
+    21300276: doflamingo_138
+    21300278: doflamingo_139
+    21300280: doflamingo_140
+    21300282: doflamingo_141
+    21300284: doflamingo_142
+    21300286: doflamingo_143
+    21300288: doflamingo_144
+    21300290: doflamingo_145
+    21300292: doflamingo_146
+    21300294: doflamingo_147
+    21300296: doflamingo_148
+    21300298: doflamingo_149
+    21300300: doflamingo_150
+    21300302: doflamingo_151
+    21300304: doflamingo_152
+    21300306: doflamingo_153
+    21300308: doflamingo_154
+    21300310: doflamingo_155
+    21300312: doflamingo_156
+    21300314: doflamingo_157
+    21300316: doflamingo_158
+    21300318: doflamingo_159
+    21300320: doflamingo_160
+    21300322: doflamingo_161
+    21300324: doflamingo_162
+    21300326: doflamingo_163
+    21300328: doflamingo_164
+    21300330: doflamingo_165
+    21300332: doflamingo_166
+    21300334: doflamingo_167
+    21300336: doflamingo_168
+    21300338: doflamingo_169
+    21300340: doflamingo_170
+    21300342: doflamingo_171
+    21300344: doflamingo_172
+    21300346: doflamingo_173
+    21300348: doflamingo_174
+    21300350: doflamingo_175
+    21300352: doflamingo_176
+    21300354: doflamingo_177
+    21300356: doflamingo_178
+    21300358: doflamingo_179
+    21300360: doflamingo_180
+    21300362: doflamingo_181
+    21300364: doflamingo_182
+    21300366: doflamingo_183
+    21300368: doflamingo_184
+    21300370: doflamingo_185
+    21300372: doflamingo_186
+    21300374: doflamingo_187
+    21300376: doflamingo_188
+    21300378: doflamingo_189
+    21300380: doflamingo_190
+    21300382: doflamingo_191
+    21300384: doflamingo_192
+    21300386: doflamingo_193
+    21300388: doflamingo_194
+    21300390: doflamingo_195
+    21300392: doflamingo_196
+    21300394: doflamingo_197
+    21300396: doflamingo_198
+    21300398: doflamingo_199
+    21300400: doflamingo_200
+    21300402: doflamingo_201
+    21300404: doflamingo_202
+    21300406: doflamingo_203
+    21300408: doflamingo_204
+    21300410: doflamingo_205
+    21300412: doflamingo_206
+    21300414: doflamingo_207
+    21300416: doflamingo_208
+    21300418: doflamingo_209
+    21300420: doflamingo_210
+    21300422: doflamingo_211
+    21300424: doflamingo_212
+    21300426: doflamingo_213
+    21300428: doflamingo_214
+    21300430: doflamingo_215
+    21300432: doflamingo_216
+    21300434: doflamingo_217
+    21300436: doflamingo_218
+    21300438: doflamingo_219
+    21300440: doflamingo_220
+    21300442: doflamingo_221
+    21300444: doflamingo_222
+    21300446: doflamingo_223
+    21300448: doflamingo_224
+    21300450: doflamingo_225
+    21300452: doflamingo_226
+    21300454: doflamingo_227
+    21300456: doflamingo_228
+    21300458: doflamingo_229
+    21300460: doflamingo_230
+    21300462: doflamingo_231
+    21300464: doflamingo_232
+    21300466: doflamingo_233
+    21300468: doflamingo_234
+    21300470: doflamingo_235
+    21300472: doflamingo_236
+    21300474: doflamingo_237
+    21300476: doflamingo_238
+    21300478: doflamingo_239
+    21300480: doflamingo_240
+    21300482: doflamingo_241
+    21300484: doflamingo_242
+    21300486: doflamingo_243
+    21300488: doflamingo_244
+    21300490: doflamingo_245
+    21300492: doflamingo_246
+    21300494: doflamingo_247
+    21300496: doflamingo_248
+    21300498: doflamingo_249
+    21300500: doflamingo_250
+    21300502: doflamingo_251
+    21300504: doflamingo_252
+    21300506: doflamingo_253
+    21300508: doflamingo_254
+    21300510: doflamingo_255
+    21300512: doflamingo_256
+    21300514: doflamingo_257
+    21300516: doflamingo_258
+    21300518: doflamingo_259
+    21300520: doflamingo_260
+    21300522: doflamingo_261
+    21300524: doflamingo_262
+    21300526: doflamingo_263
+    21300528: doflamingo_264
+    21300530: doflamingo_265
+    21300532: doflamingo_266
+    21300534: doflamingo_267
+    21300536: doflamingo_268
+    21300538: doflamingo_269
+    21300540: doflamingo_270
+    21300542: doflamingo_271
+    21300544: doflamingo_272
+    21300546: doflamingo_273
+    21300548: doflamingo_274
+    21300550: doflamingo_275
+    21300552: doflamingo_276
+    21300554: doflamingo_277
+    21300556: doflamingo_278
+    21300558: doflamingo_279
+    21300560: doflamingo_280
+    21300562: doflamingo_281
+    21300564: doflamingo_282
+    21300566: doflamingo_283
+    21300568: doflamingo_284
+    21300570: doflamingo_285
+    21300572: doflamingo_286
+    21300574: doflamingo_287
+    21300576: doflamingo_288
+    21300578: doflamingo_289
+    21300580: doflamingo_290
+    21300582: doflamingo_291
+    21300584: doflamingo_292
+    21300586: doflamingo_293
+    21300588: doflamingo_294
+    21300590: doflamingo_295
+    21300592: doflamingo_296
+    21300594: doflamingo_297
+    21300596: doflamingo_298
+    21300598: doflamingo_299
+    21300600: doflamingo_300
+    21300602: doflamingo_301
+    21300604: doflamingo_302
+    21300606: doflamingo_303
+    21300608: doflamingo_304
+    21300610: doflamingo_305
+    21300612: doflamingo_306
+    21300614: doflamingo_307
+    21300616: doflamingo_308
+    21300618: doflamingo_309
+    21300620: doflamingo_310
+    21300622: doflamingo_311
+    21300624: doflamingo_312
+    21300626: doflamingo_313
+    21300628: doflamingo_314
+    21300630: doflamingo_315
+    21300632: doflamingo_316
+    21300634: doflamingo_317
+    21300636: doflamingo_318_ragdol
+    21300638: doflamingo_319_ragdol
+    21300640: doflamingo_320_ragdol
+    21300642: doflamingo_321_ragdol
+    21300644: doflamingo_322
+    21300646: doflamingo_323
+    21300648: doflamingo_324
+    21300650: doflamingo_325
+    21300652: doflamingo_326
+    21300654: doflamingo_327
+    21300656: doflamingo_328
+    21300658: doflamingo_329
+    21300660: doflamingo_330
+    21300662: doflamingo_331
+    21300664: doflamingo_332
+    21300666: doflamingo_333
+    21300668: doflamingo_334
+    21300670: doflamingo_335
+    21300672: doflamingo_336
+    21300674: doflamingo_337
+    21300676: doflamingo_338
+    21300678: doflamingo_339
+    21300680: doflamingo_340
+    21300682: doflamingo_341
+    21300684: doflamingo_342
+    21300686: doflamingo_343
+    21300688: doflamingo_344
+    21300690: doflamingo_345
+    21300692: doflamingo_346
+    21300694: doflamingo_347
+    21300696: doflamingo_348
+    21300698: doflamingo_349
+    21300700: doflamingo_350
+    21300702: doflamingo_351
+    21300704: doflamingo_352
+    21300706: doflamingo_353
+    21300708: doflamingo_354
+    21300710: doflamingo_355
+    21300712: doflamingo_356
+    21300714: doflamingo_357
+    21300716: doflamingo_358
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doflamingo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12480
+        width: 150
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 12480
+        width: 151
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 12480
+        width: 151
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 12480
+        width: 152
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_4
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 12611
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_5
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 12610
+        width: 138
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_6
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 12615
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_7
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 12614
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_8
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 12591
+        width: 101
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_9
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 12589
+        width: 148
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_10
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 12540
+        width: 209
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_11_idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12273
+        width: 150
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_12_idle
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12273
+        width: 151
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_13_idle
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 12273
+        width: 150
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_14_idle
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 12273
+        width: 150
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_15_walk
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12046
+        width: 127
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_16_walk
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 12046
+        width: 132
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_17_walk
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 12046
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_18_walk
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 12046
+        width: 132
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_19_walk
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 12046
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_20_walk
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 12046
+        width: 130
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_21_walk
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 12046
+        width: 132
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_22_walk
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 12046
+        width: 120
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11853
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 11853
+        width: 150
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 11853
+        width: 161
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11564
+        width: 130
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11564
+        width: 162
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 11564
+        width: 180
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 11564
+        width: 249
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_30
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 11564
+        width: 209
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11359
+        width: 150
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11359
+        width: 150
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 11359
+        width: 170
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11192
+        width: 186
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 11190
+        width: 189
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_36
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 11192
+        width: 181
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10988
+        width: 183
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 10988
+        width: 191
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 10988
+        width: 189
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_40_run
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10767
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_41_run
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10764
+        width: 203
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_42_run
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 10767
+        width: 202
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_43_run
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 10767
+        width: 212
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_44_run
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 10767
+        width: 199
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_45_run
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 10767
+        width: 202
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10541
+        width: 158
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 10541
+        width: 191
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 10544
+        width: 183
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10343
+        width: 178
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_50
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 10343
+        width: 188
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 10343
+        width: 208
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_52
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 10343
+        width: 199
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_53_kick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10115
+        width: 161
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_54_kick
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10115
+        width: 245
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_55_kick
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 10115
+        width: 220
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_56_kick
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 10115
+        width: 131
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9852
+        width: 124
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9849
+        width: 128
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_59
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 9850
+        width: 226
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_60
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9850
+        width: 222
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_61
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 9852
+        width: 199
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9852
+        width: 174
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9640
+        width: 178
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9640
+        width: 226
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_65
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 9640
+        width: 204
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 9640
+        width: 174
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_67
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 9640
+        width: 191
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9423
+        width: 155
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_69
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 9423
+        width: 229
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_70
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 9423
+        width: 196
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_71
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 9423
+        width: 168
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9201
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_73
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 9201
+        width: 176
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_74
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 9201
+        width: 213
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_75
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 9201
+        width: 219
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_76
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 9202
+        width: 204
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8990
+        width: 193
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_78
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8990
+        width: 228
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_79
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 8990
+        width: 188
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_80
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 8990
+        width: 190
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 8639
+        width: 291
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_82
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 8805
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_83
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 8821
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_84
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 8819
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_85
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8782
+        width: 216
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8639
+        width: 123
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8639
+        width: 188
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_88
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 8737
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_89
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 8777
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_90
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 8753
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_91
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 8794
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_92
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 8769
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_93
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 8764
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_94
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 8756
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_95
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 8639
+        width: 195
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_96
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 8717
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_97
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 8745
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_98
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 8779
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_99
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 8757
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_100
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 8720
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_101
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 8754
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_102
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 8744
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_103
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 8756
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_104
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 8759
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_105
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 8740
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_106
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 8709
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_107
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 8720
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_108
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 8753
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_109
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 8730
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_110
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 8739
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_111
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 8708
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_112
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 8706
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_113
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 8743
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_114
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 8709
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_115
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 8716
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_116
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 8676
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_117
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 8691
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_118
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 8713
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_119
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 8700
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_120
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 8713
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_121
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 8685
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_122
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 8716
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_123
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 8706
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_124
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 8700
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_125
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 8682
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_126
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 8673
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_127
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 8682
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_128
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 8677
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_129
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 8659
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_130
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 8658
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_131
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 8639
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8371
+        width: 173
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_133
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8371
+        width: 171
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8371
+        width: 180
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_135
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 8371
+        width: 187
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_136
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 8371
+        width: 141
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_137
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 8371
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_138
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 8371
+        width: 56
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_139
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 8371
+        width: 55
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_140
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 8371
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8137
+        width: 197
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_142
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 8137
+        width: 197
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_143
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8137
+        width: 266
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 8137
+        width: 147
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7854
+        width: 181
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_146
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 7854
+        width: 177
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_147
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7854
+        width: 161
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_148
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 7854
+        width: 169
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_149
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 7854
+        width: 142
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_150
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 7870
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_151
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 7854
+        width: 151
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_152
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 7854
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7620
+        width: 200
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_154
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 7621
+        width: 137
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_155
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7621
+        width: 136
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_156
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7621
+        width: 208
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_157
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 7621
+        width: 181
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_158
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 7621
+        width: 183
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7376
+        width: 164
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_160
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 7376
+        width: 178
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_161
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 7376
+        width: 180
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_162
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 7376
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_163
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 7376
+        width: 165
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_164
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 7376
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_165
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 7376
+        width: 125
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_166
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 7376
+        width: 163
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_167
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 7376
+        width: 163
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_168
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 7401
+        width: 173
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_169
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 7373
+        width: 261
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7143
+        width: 167
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_171
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 7143
+        width: 236
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_172
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 7143
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_173
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 7143
+        width: 131
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_174
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 7143
+        width: 143
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6911
+        width: 181
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_176
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6910
+        width: 186
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_177
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6911
+        width: 162
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_178
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 6910
+        width: 164
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_179
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 6911
+        width: 168
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_180
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 6911
+        width: 141
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6638
+        width: 144
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_182
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6638
+        width: 162
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_183
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 6638
+        width: 154
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_184
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 6638
+        width: 149
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_185
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 6638
+        width: 159
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_186
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 6638
+        width: 208
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_187
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 6638
+        width: 234
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_188
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 6638
+        width: 222
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_189
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 6638
+        width: 220
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6399
+        width: 124
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_191
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6398
+        width: 140
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_192
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6399
+        width: 224
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_193
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 6398
+        width: 176
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_194
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 6399
+        width: 156
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_195
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 6397
+        width: 146
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6171
+        width: 173
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_197
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 6171
+        width: 146
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_198
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6171
+        width: 336
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_199
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6169
+        width: 228
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_200
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 6171
+        width: 131
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_201
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 6171
+        width: 132
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5948
+        width: 150
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_203
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5946
+        width: 156
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_204
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 5948
+        width: 257
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_205
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 5947
+        width: 253
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_206
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 5948
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5699
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_208
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5699
+        width: 200
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_209
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 5699
+        width: 276
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_210
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 5699
+        width: 184
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_211
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 5699
+        width: 167
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5437
+        width: 129
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_213
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5437
+        width: 175
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_214
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 5434
+        width: 236
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_215
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 5434
+        width: 248
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_216
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 5437
+        width: 243
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_217
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 5437
+        width: 180
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_218
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5191
+        width: 221
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_219
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5166
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_220
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5166
+        width: 289
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_221
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 5166
+        width: 335
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_222
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 5166
+        width: 342
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_223
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 5170
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_224
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 5173
+        width: 118
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_225
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 5173
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_226
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 5170
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_227
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 5166
+        width: 341
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_228
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 5166
+        width: 159
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_229
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 5166
+        width: 239
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_230
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 5163
+        width: 234
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4759
+        width: 286
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_232
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4761
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_233
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 4759
+        width: 337
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_234
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 4759
+        width: 337
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_235
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 4759
+        width: 378
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_236
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4759
+        width: 445
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_237
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 4762
+        width: 622
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4353
+        width: 621
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_239
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 4588
+        width: 182
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_240
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 4564
+        width: 221
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_241
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 4549
+        width: 247
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_242
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 4533
+        width: 212
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_243
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 4504
+        width: 186
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_244
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 4493
+        width: 238
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_245
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4479
+        width: 234
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_246
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 4480
+        width: 221
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_247
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 4477
+        width: 210
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_248
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 4466
+        width: 249
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_249
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 4464
+        width: 249
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_250
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 4449
+        width: 213
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_251
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 4438
+        width: 249
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_252
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 4422
+        width: 247
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_253
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 4421
+        width: 235
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_254
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 4422
+        width: 198
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_255
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 4404
+        width: 207
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_256
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 4392
+        width: 210
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_257
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 4392
+        width: 208
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_258
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 4381
+        width: 249
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_259
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 4364
+        width: 201
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_260
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 4353
+        width: 224
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_261
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 4364
+        width: 197
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_262
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 4353
+        width: 189
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_263
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 4353
+        width: 227
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4075
+        width: 197
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_265
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4075
+        width: 126
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_266
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 4075
+        width: 145
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_267
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4075
+        width: 252
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_268
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 4075
+        width: 222
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_269
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 4075
+        width: 182
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3732
+        width: 283
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_271
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3732
+        width: 281
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_272
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3732
+        width: 348
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_273
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 3732
+        width: 467
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_274
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3732
+        width: 145
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3484
+        width: 198
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_276
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3484
+        width: 216
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_277
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3483
+        width: 205
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_278
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3484
+        width: 176
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_279
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3484
+        width: 174
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_280
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 3484
+        width: 152
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_281
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3502
+        width: 6
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_282
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 3501
+        width: 6
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_283
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3495
+        width: 6
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_284
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3494
+        width: 6
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_285
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 3491
+        width: 6
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_286
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 3487
+        width: 4
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_287
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 3483
+        width: 6
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 149
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_289
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3240
+        width: 181
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_290
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3240
+        width: 176
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_291
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3240
+        width: 170
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_292
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3008
+        width: 138
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_293
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3038
+        width: 155
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_294
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3008
+        width: 185
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_295
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3008
+        width: 206
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_296
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3008
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2811
+        width: 167
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_298
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2811
+        width: 168
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_299
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2601
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_300
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2600
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_301
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2392
+        width: 144
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_302
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2392
+        width: 154
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_303
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2392
+        width: 164
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_304
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2390
+        width: 191
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_305
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 157
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_306
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2195
+        width: 180
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_307
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2005
+        width: 167
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_308
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2005
+        width: 176
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_309
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1838
+        width: 157
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_310
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1834
+        width: 172
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_311
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1838
+        width: 176
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_312
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1834
+        width: 180
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_313
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1670
+        width: 163
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_314
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1670
+        width: 181
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1501
+        width: 173
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_316
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1501
+        width: 177
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_317
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1281
+        width: 260
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_318_ragdol
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 161
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_319_ragdol
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1295
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_320_ragdol
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1295
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_321_ragdol
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1295
+        width: 191
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_322
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1097
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_323
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1097
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_324
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1097
+        width: 191
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_325
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1097
+        width: 158
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_326
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 890
+        width: 259
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_327
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 152
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_328
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 905
+        width: 159
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_329
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 905
+        width: 198
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_330
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 905
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_331
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 180
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_332
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 723
+        width: 236
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_333
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 725
+        width: 226
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_334
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 723
+        width: 213
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_335
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 723
+        width: 196
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_336
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 725
+        width: 155
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_337
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 723
+        width: 176
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_338
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 725
+        width: 160
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_339
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 604
+        width: 509
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_340
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 155
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_341
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 500
+        width: 157
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_342
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 503
+        width: 188
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_343
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 503
+        width: 188
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_344
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 503
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_345
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 305
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_346
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 138
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_347
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 276
+        width: 149
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_348
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 276
+        width: 148
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_349
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 276
+        width: 143
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_350
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 109
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_351
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 46
+        width: 119
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_352
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 46
+        width: 174
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_353
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 46
+        width: 163
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_354
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 46
+        width: 162
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_355
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 165
+        width: 422
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_356
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 19
+        width: 260
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_357
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: doflamingo_358
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

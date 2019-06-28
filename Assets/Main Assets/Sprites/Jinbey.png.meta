@@ -1,0 +1,3730 @@
+fileFormatVersion: 2
+guid: 178e7ddf444561245afebf7f56ba8700
+timeCreated: 1508049963
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jinbey_0
+    21300002: Jinbey_1
+    21300004: Jinbey_2
+    21300006: Jinbey_3
+    21300008: Jinbey_4
+    21300010: Jinbey_5
+    21300012: Jinbey_6
+    21300014: Jinbey_7
+    21300016: Jinbey_8_idle
+    21300018: Jinbey_9_idle
+    21300020: Jinbey_10_idle
+    21300022: Jinbey_11_idle
+    21300024: Jinbey_12
+    21300026: Jinbey_13
+    21300028: Jinbey_14
+    21300030: Jinbey_15
+    21300032: Jinbey_16
+    21300034: Jinbey_17
+    21300036: Jinbey_18
+    21300038: Jinbey_19
+    21300040: Jinbey_20
+    21300042: Jinbey_21
+    21300044: Jinbey_22
+    21300046: Jinbey_23
+    21300048: Jinbey_24
+    21300050: Jinbey_25
+    21300052: Jinbey_26
+    21300054: Jinbey_27
+    21300056: Jinbey_28
+    21300058: Jinbey_29
+    21300060: Jinbey_30
+    21300062: Jinbey_31
+    21300064: Jinbey_32
+    21300066: Jinbey_33
+    21300068: Jinbey_34
+    21300070: Jinbey_35
+    21300072: Jinbey_36_run
+    21300074: Jinbey_37_run
+    21300076: Jinbey_38_run
+    21300078: Jinbey_39_run
+    21300080: Jinbey_40_run
+    21300082: Jinbey_41_run
+    21300084: Jinbey_42
+    21300086: Jinbey_43
+    21300088: Jinbey_44
+    21300090: Jinbey_45
+    21300092: Jinbey_46
+    21300094: Jinbey_47
+    21300096: Jinbey_48
+    21300098: Jinbey_49
+    21300100: Jinbey_50
+    21300102: Jinbey_51
+    21300104: Jinbey_52
+    21300106: Jinbey_53
+    21300108: Jinbey_54
+    21300110: Jinbey_55
+    21300112: Jinbey_56
+    21300114: Jinbey_57
+    21300116: Jinbey_58
+    21300118: Jinbey_59
+    21300120: Jinbey_60
+    21300122: Jinbey_61_punch
+    21300124: Jinbey_62_punch
+    21300126: Jinbey_63_punch
+    21300128: Jinbey_64_punch
+    21300130: Jinbey_65_punch
+    21300132: Jinbey_66
+    21300134: Jinbey_67
+    21300136: Jinbey_68
+    21300138: Jinbey_69
+    21300140: Jinbey_70
+    21300142: Jinbey_71
+    21300144: Jinbey_72
+    21300146: Jinbey_73
+    21300148: Jinbey_74
+    21300150: Jinbey_75
+    21300152: Jinbey_76
+    21300154: Jinbey_77
+    21300156: Jinbey_78
+    21300158: Jinbey_79
+    21300160: Jinbey_80
+    21300162: Jinbey_81
+    21300164: Jinbey_82
+    21300166: Jinbey_83
+    21300168: Jinbey_84
+    21300170: Jinbey_85
+    21300172: Jinbey_86
+    21300174: Jinbey_87
+    21300176: Jinbey_88
+    21300178: Jinbey_89
+    21300180: Jinbey_90
+    21300182: Jinbey_91
+    21300184: Jinbey_92
+    21300186: Jinbey_93
+    21300188: Jinbey_94
+    21300190: Jinbey_95
+    21300192: Jinbey_96
+    21300194: Jinbey_97
+    21300196: Jinbey_98
+    21300198: Jinbey_99
+    21300200: Jinbey_100
+    21300202: Jinbey_101
+    21300204: Jinbey_102
+    21300206: Jinbey_103
+    21300208: Jinbey_104
+    21300210: Jinbey_105
+    21300212: Jinbey_106
+    21300214: Jinbey_107
+    21300216: Jinbey_108
+    21300218: Jinbey_109
+    21300220: Jinbey_110
+    21300222: Jinbey_111
+    21300224: Jinbey_112
+    21300226: Jinbey_113
+    21300228: Jinbey_114
+    21300230: Jinbey_115
+    21300232: Jinbey_116
+    21300234: Jinbey_117
+    21300236: Jinbey_118
+    21300238: Jinbey_119
+    21300240: Jinbey_120
+    21300242: Jinbey_121
+    21300244: Jinbey_122
+    21300246: Jinbey_123
+    21300248: Jinbey_124
+    21300250: Jinbey_125
+    21300252: Jinbey_126
+    21300254: Jinbey_127
+    21300256: Jinbey_128
+    21300258: Jinbey_129
+    21300260: Jinbey_130
+    21300262: Jinbey_131
+    21300264: Jinbey_132
+    21300266: Jinbey_133
+    21300268: Jinbey_134
+    21300270: Jinbey_135
+    21300272: Jinbey_136
+    21300274: Jinbey_137
+    21300276: Jinbey_138
+    21300278: Jinbey_139
+    21300280: Jinbey_140
+    21300282: Jinbey_141
+    21300284: Jinbey_142
+    21300286: Jinbey_143
+    21300288: Jinbey_144
+    21300290: Jinbey_145
+    21300292: Jinbey_146
+    21300294: Jinbey_147
+    21300296: Jinbey_148
+    21300298: Jinbey_149
+    21300300: Jinbey_150
+    21300302: Jinbey_151
+    21300304: Jinbey_152
+    21300306: Jinbey_153
+    21300308: Jinbey_154
+    21300310: Jinbey_155
+    21300312: Jinbey_156
+    21300314: Jinbey_157
+    21300316: Jinbey_158
+    21300318: Jinbey_159
+    21300320: Jinbey_160
+    21300322: Jinbey_161
+    21300324: Jinbey_162
+    21300326: Jinbey_163
+    21300328: Jinbey_164
+    21300330: Jinbey_165
+    21300332: Jinbey_166
+    21300334: Jinbey_167
+    21300336: Jinbey_168
+    21300338: Jinbey_169
+    21300340: Jinbey_170
+    21300342: Jinbey_171
+    21300344: Jinbey_172
+    21300346: Jinbey_173
+    21300348: Jinbey_174
+    21300350: Jinbey_175
+    21300352: Jinbey_176
+    21300354: Jinbey_177
+    21300356: Jinbey_178
+    21300358: Jinbey_179
+    21300360: Jinbey_180
+    21300362: Jinbey_181
+    21300364: Jinbey_182
+    21300366: Jinbey_183
+    21300368: Jinbey_184
+    21300370: Jinbey_185
+    21300372: Jinbey_186
+    21300374: Jinbey_187
+    21300376: Jinbey_188
+    21300378: Jinbey_189
+    21300380: Jinbey_190
+    21300382: Jinbey_191
+    21300384: Jinbey_192
+    21300386: Jinbey_193
+    21300388: Jinbey_194
+    21300390: Jinbey_195
+    21300392: Jinbey_196
+    21300394: Jinbey_197
+    21300396: Jinbey_198
+    21300398: Jinbey_199
+    21300400: Jinbey_200
+    21300402: Jinbey_201
+    21300404: Jinbey_202
+    21300406: Jinbey_203
+    21300408: Jinbey_204
+    21300410: Jinbey_205
+    21300412: Jinbey_206
+    21300414: Jinbey_207
+    21300416: Jinbey_208
+    21300418: Jinbey_209
+    21300420: Jinbey_210
+    21300422: Jinbey_211
+    21300424: Jinbey_212
+    21300426: Jinbey_213
+    21300428: Jinbey_214
+    21300430: Jinbey_215
+    21300432: Jinbey_216
+    21300434: Jinbey_217
+    21300436: Jinbey_218
+    21300438: Jinbey_219
+    21300440: Jinbey_220
+    21300442: Jinbey_221
+    21300444: Jinbey_222
+    21300446: Jinbey_223
+    21300448: Jinbey_224
+    21300450: Jinbey_225
+    21300452: Jinbey_226
+    21300454: Jinbey_227
+    21300456: Jinbey_228
+    21300458: Jinbey_229
+    21300460: Jinbey_230
+    21300462: Jinbey_231
+    21300464: Jinbey_232
+    21300466: Jinbey_233
+    21300468: Jinbey_234
+    21300470: Jinbey_235
+    21300472: Jinbey_236
+    21300474: Jinbey_237
+    21300476: Jinbey_238
+    21300478: Jinbey_239
+    21300480: Jinbey_240
+    21300482: Jinbey_241
+    21300484: Jinbey_242
+    21300486: Jinbey_243
+    21300488: Jinbey_244
+    21300490: Jinbey_245
+    21300492: Jinbey_246
+    21300494: Jinbey_247
+    21300496: Jinbey_248
+    21300498: Jinbey_249
+    21300500: Jinbey_250
+    21300502: Jinbey_251
+    21300504: Jinbey_252
+    21300506: Jinbey_253
+    21300508: Jinbey_254
+    21300510: Jinbey_255
+    21300512: Jinbey_256
+    21300514: Jinbey_257
+    21300516: Jinbey_258
+    21300518: Jinbey_259
+    21300520: Jinbey_260
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jinbey_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11469
+        width: 166
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 11469
+        width: 165
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 11469
+        width: 165
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 11469
+        width: 166
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 11606
+        width: 217
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_5
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 11630
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_6
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 11604
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_7
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 11553
+        width: 227
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_8_idle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11261
+        width: 166
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_9_idle
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11261
+        width: 167
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_10_idle
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 11261
+        width: 169
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_11_idle
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 11261
+        width: 171
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11058
+        width: 166
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11058
+        width: 163
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 11058
+        width: 161
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 11058
+        width: 158
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_16
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 11058
+        width: 155
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_17
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 11058
+        width: 153
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10856
+        width: 163
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10856
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 10856
+        width: 148
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10550
+        width: 161
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10550
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 10550
+        width: 201
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_24
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 10550
+        width: 190
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_25
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 10550
+        width: 200
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_26
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 10550
+        width: 190
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10342
+        width: 163
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10342
+        width: 162
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 10342
+        width: 168
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10158
+        width: 143
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 10158
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 10158
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9936
+        width: 200
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 9936
+        width: 160
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_35
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 9936
+        width: 161
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_36_run
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9736
+        width: 193
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_37_run
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 9736
+        width: 172
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_38_run
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9736
+        width: 149
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_39_run
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 9736
+        width: 168
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_40_run
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9736
+        width: 154
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_41_run
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 9736
+        width: 141
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9514
+        width: 180
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9514
+        width: 210
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9291
+        width: 166
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9291
+        width: 153
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_46
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 9291
+        width: 190
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9090
+        width: 183
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 9090
+        width: 190
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 9090
+        width: 169
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 9090
+        width: 172
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8879
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8879
+        width: 228
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 8879
+        width: 226
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_54
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 8879
+        width: 189
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8662
+        width: 178
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_56
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8662
+        width: 168
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 8662
+        width: 212
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_58
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8662
+        width: 243
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 8662
+        width: 168
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_60
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 8662
+        width: 136
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_61_punch
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8460
+        width: 180
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_62_punch
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 8460
+        width: 153
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_63_punch
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 8460
+        width: 188
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_64_punch
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 8460
+        width: 161
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_65_punch
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8460
+        width: 169
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8245
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8245
+        width: 183
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_68
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 8245
+        width: 239
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_69
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 8245
+        width: 243
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8020
+        width: 159
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 8020
+        width: 188
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_72
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 8020
+        width: 187
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_73
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 8020
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_74
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 8020
+        width: 184
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_75
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 8020
+        width: 192
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_76
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 8020
+        width: 178
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7811
+        width: 122
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_78
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 7811
+        width: 159
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_79
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 7811
+        width: 186
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_80
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 7811
+        width: 195
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7592
+        width: 176
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_82
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 7592
+        width: 143
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_83
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 7592
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_84
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 7592
+        width: 220
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_85
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 7592
+        width: 182
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7380
+        width: 141
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 7380
+        width: 166
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_88
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7380
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_89
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 7380
+        width: 217
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_90
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 7380
+        width: 197
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_91
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 7380
+        width: 190
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_92
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7178
+        width: 188
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_93
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 7178
+        width: 210
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_94
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 7178
+        width: 220
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_95
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 7178
+        width: 196
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6943
+        width: 185
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_97
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 6943
+        width: 178
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_98
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 6943
+        width: 154
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_99
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 6943
+        width: 172
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_100
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 6943
+        width: 163
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_101
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 6943
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6725
+        width: 183
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 6725
+        width: 170
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_104
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 6725
+        width: 220
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_105
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 6725
+        width: 205
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_106
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 6725
+        width: 173
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_107
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6516
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_108
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6516
+        width: 193
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_109
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6516
+        width: 207
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_110
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 6516
+        width: 196
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_111
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 6516
+        width: 199
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6304
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_113
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6314
+        width: 170
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_114
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 6304
+        width: 203
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_115
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6304
+        width: 195
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_116
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 6304
+        width: 143
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_117
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 6304
+        width: 153
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_118
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6304
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6085
+        width: 125
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_120
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6085
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_121
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6085
+        width: 206
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_122
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 6085
+        width: 199
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_123
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 6085
+        width: 169
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_124
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 6085
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5879
+        width: 232
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_126
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 5879
+        width: 206
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_127
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 5879
+        width: 207
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_128
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 5879
+        width: 162
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_129
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 5879
+        width: 205
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5654
+        width: 116
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_131
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5654
+        width: 129
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_132
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 5654
+        width: 199
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_133
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5654
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_134
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 5654
+        width: 177
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_135
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 5654
+        width: 165
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5422
+        width: 165
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_137
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5422
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_138
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 5422
+        width: 143
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_139
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 5422
+        width: 187
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_140
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 5422
+        width: 197
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_141
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 5422
+        width: 156
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_142
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5207
+        width: 151
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_143
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5207
+        width: 158
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_144
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 5207
+        width: 198
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_145
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 5207
+        width: 219
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_146
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 5207
+        width: 216
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_147
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 5207
+        width: 153
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_148
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4954
+        width: 149
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_149
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4954
+        width: 157
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_150
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 4954
+        width: 180
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_151
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4954
+        width: 222
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_152
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 4954
+        width: 220
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_153
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4717
+        width: 186
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_154
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4717
+        width: 167
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_155
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4717
+        width: 187
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_156
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 4717
+        width: 224
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_157
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 4717
+        width: 222
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_158
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 4717
+        width: 179
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_159
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4490
+        width: 173
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_160
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4490
+        width: 149
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_161
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4490
+        width: 144
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_162
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 4490
+        width: 195
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_163
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 4490
+        width: 177
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_164
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 4490
+        width: 180
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_165
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 4490
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_166
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4286
+        width: 180
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_167
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4286
+        width: 182
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_168
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4286
+        width: 179
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_169
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 4286
+        width: 149
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_170
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 4286
+        width: 188
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_171
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 4286
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_172
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 4286
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_173
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 4286
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_174
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4074
+        width: 149
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_175
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4074
+        width: 140
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_176
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4074
+        width: 190
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_177
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 4074
+        width: 139
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_178
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 4074
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_179
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 4074
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_180
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3842
+        width: 171
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_181
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3842
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_182
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3842
+        width: 173
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_183
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 3842
+        width: 195
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_184
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3842
+        width: 196
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_185
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3842
+        width: 170
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_186
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3622
+        width: 159
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_187
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3622
+        width: 187
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_188
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3622
+        width: 178
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_189
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3622
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_190
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3622
+        width: 202
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_191
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3622
+        width: 169
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_192
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3421
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_193
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3421
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_194
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3421
+        width: 178
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_195
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3421
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_196
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3221
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_197
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3221
+        width: 197
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_198
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3221
+        width: 189
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_199
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3221
+        width: 180
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_200
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3030
+        width: 186
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_201
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3030
+        width: 189
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_202
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2839
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_203
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2839
+        width: 175
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_204
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2639
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_205
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2639
+        width: 169
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_206
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2639
+        width: 178
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_207
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2639
+        width: 176
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_208
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2451
+        width: 171
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2451
+        width: 173
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_210
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2266
+        width: 173
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_211
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2266
+        width: 180
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_212
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2092
+        width: 161
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_213
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2092
+        width: 173
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_214
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2092
+        width: 173
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_215
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2092
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_216
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1924
+        width: 179
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1924
+        width: 185
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_218
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1758
+        width: 163
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_219
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1758
+        width: 162
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_220
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1579
+        width: 175
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_221
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1579
+        width: 199
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_222
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1579
+        width: 207
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_223
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1579
+        width: 227
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_224
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1375
+        width: 159
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_225
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1375
+        width: 156
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_226
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1375
+        width: 145
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_227
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1375
+        width: 154
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_228
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1159
+        width: 178
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_229
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1159
+        width: 162
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_230
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1159
+        width: 181
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_231
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1159
+        width: 173
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_232
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 951
+        width: 178
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_233
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 951
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_234
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 951
+        width: 198
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_235
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 951
+        width: 173
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_236
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 951
+        width: 155
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_237
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 951
+        width: 175
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_238
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 951
+        width: 155
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_239
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 739
+        width: 223
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_240
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 739
+        width: 199
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_241
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 739
+        width: 203
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_242
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 739
+        width: 189
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_243
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 739
+        width: 182
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_244
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 546
+        width: 183
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_245
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 546
+        width: 196
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_246
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 546
+        width: 174
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_247
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 546
+        width: 165
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_248
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 331
+        width: 158
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_249
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 331
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_250
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 331
+        width: 170
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_251
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 331
+        width: 166
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_252
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 331
+        width: 166
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_253
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 331
+        width: 163
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_254
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 331
+        width: 165
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_255
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 259
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_256
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8
+        width: 259
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_257
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 32
+        width: 451
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_258
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 23
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_259
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 144
+        width: 345
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jinbey_260
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 28
+        width: 260
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

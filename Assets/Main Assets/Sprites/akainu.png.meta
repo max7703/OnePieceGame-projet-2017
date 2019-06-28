@@ -1,0 +1,3940 @@
+fileFormatVersion: 2
+guid: 51c3832a786447549bc41a54031fecec
+timeCreated: 1506603913
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: akainu_0
+    21300002: akainu_1
+    21300004: akainu_2
+    21300006: akainu_3
+    21300008: akainu_4_idle
+    21300010: akainu_5_idle
+    21300012: akainu_6_idle
+    21300014: akainu_7_idle
+    21300016: akainu_8_walk
+    21300018: akainu_9_walk
+    21300020: akainu_10_walk
+    21300022: akainu_11_walk
+    21300024: akainu_12_walk
+    21300026: akainu_13_walk
+    21300028: akainu_14_walk
+    21300030: akainu_15_walk
+    21300032: akainu_16
+    21300034: akainu_17
+    21300036: akainu_18
+    21300038: akainu_19
+    21300040: akainu_20
+    21300042: akainu_21
+    21300044: akainu_22
+    21300046: akainu_23
+    21300048: akainu_24
+    21300050: akainu_25
+    21300052: akainu_26
+    21300054: akainu_27
+    21300056: akainu_28
+    21300058: akainu_29
+    21300060: akainu_30
+    21300062: akainu_31
+    21300064: akainu_32
+    21300066: akainu_33
+    21300068: akainu_34
+    21300070: akainu_35
+    21300072: akainu_36
+    21300074: akainu_37
+    21300076: akainu_38
+    21300078: akainu_39
+    21300080: akainu_40
+    21300082: akainu_41
+    21300084: akainu_42
+    21300086: akainu_43
+    21300088: akainu_44
+    21300090: akainu_45
+    21300092: akainu_46
+    21300094: akainu_47
+    21300096: akainu_48
+    21300098: akainu_49
+    21300100: akainu_50
+    21300102: akainu_51
+    21300104: akainu_52
+    21300106: akainu_53
+    21300108: akainu_54
+    21300110: akainu_55
+    21300112: akainu_56
+    21300114: akainu_57
+    21300116: akainu_58
+    21300118: akainu_59
+    21300120: akainu_60
+    21300122: akainu_61
+    21300124: akainu_62_punch
+    21300126: akainu_63_punch
+    21300128: akainu_64_punch
+    21300130: akainu_65_punch
+    21300132: akainu_66_punch
+    21300134: akainu_67
+    21300136: akainu_68
+    21300138: akainu_69
+    21300140: akainu_70
+    21300142: akainu_71
+    21300144: akainu_72
+    21300146: akainu_73
+    21300148: akainu_74
+    21300150: akainu_75
+    21300152: akainu_76
+    21300154: akainu_77
+    21300156: akainu_78
+    21300158: akainu_79
+    21300160: akainu_80
+    21300162: akainu_81
+    21300164: akainu_82
+    21300166: akainu_83
+    21300168: akainu_84
+    21300170: akainu_85
+    21300172: akainu_86
+    21300174: akainu_87
+    21300176: akainu_88
+    21300178: akainu_89
+    21300180: akainu_90
+    21300182: akainu_91
+    21300184: akainu_92
+    21300186: akainu_93
+    21300188: akainu_94
+    21300190: akainu_95
+    21300192: akainu_96
+    21300194: akainu_97
+    21300196: akainu_98
+    21300198: akainu_99
+    21300200: akainu_100
+    21300202: akainu_101
+    21300204: akainu_102
+    21300206: akainu_103
+    21300208: akainu_104
+    21300210: akainu_105
+    21300212: akainu_106
+    21300214: akainu_107
+    21300216: akainu_108
+    21300218: akainu_109
+    21300220: akainu_110
+    21300222: akainu_111
+    21300224: akainu_112
+    21300226: akainu_113
+    21300228: akainu_114
+    21300230: akainu_115
+    21300232: akainu_116
+    21300234: akainu_117
+    21300236: akainu_118
+    21300238: akainu_119
+    21300240: akainu_120
+    21300242: akainu_121
+    21300244: akainu_122
+    21300246: akainu_123
+    21300248: akainu_124
+    21300250: akainu_125
+    21300252: akainu_126
+    21300254: akainu_127
+    21300256: akainu_128
+    21300258: akainu_129
+    21300260: akainu_130
+    21300262: akainu_131
+    21300264: akainu_132
+    21300266: akainu_133
+    21300268: akainu_134
+    21300270: akainu_135
+    21300272: akainu_136
+    21300274: akainu_137
+    21300276: akainu_138
+    21300278: akainu_139
+    21300280: akainu_140
+    21300282: akainu_141
+    21300284: akainu_142
+    21300286: akainu_143
+    21300288: akainu_144
+    21300290: akainu_145
+    21300292: akainu_146
+    21300294: akainu_147
+    21300296: akainu_148
+    21300298: akainu_149
+    21300300: akainu_150
+    21300302: akainu_151
+    21300304: akainu_152
+    21300306: akainu_153
+    21300308: akainu_154
+    21300310: akainu_155
+    21300312: akainu_156
+    21300314: akainu_157
+    21300316: akainu_158
+    21300318: akainu_159
+    21300320: akainu_160
+    21300322: akainu_161
+    21300324: akainu_162
+    21300326: akainu_163
+    21300328: akainu_164
+    21300330: akainu_165
+    21300332: akainu_166
+    21300334: akainu_167
+    21300336: akainu_168
+    21300338: akainu_169
+    21300340: akainu_170
+    21300342: akainu_171
+    21300344: akainu_172
+    21300346: akainu_173
+    21300348: akainu_174
+    21300350: akainu_175
+    21300352: akainu_176
+    21300354: akainu_177
+    21300356: akainu_178
+    21300358: akainu_179
+    21300360: akainu_180
+    21300362: akainu_181
+    21300364: akainu_182
+    21300366: akainu_183
+    21300368: akainu_184
+    21300370: akainu_185
+    21300372: akainu_186
+    21300374: akainu_187
+    21300376: akainu_188
+    21300378: akainu_189
+    21300380: akainu_190
+    21300382: akainu_191
+    21300384: akainu_192
+    21300386: akainu_193
+    21300388: akainu_194
+    21300390: akainu_195
+    21300392: akainu_196
+    21300394: akainu_197
+    21300396: akainu_198
+    21300398: akainu_199
+    21300400: akainu_200
+    21300402: akainu_201
+    21300404: akainu_202
+    21300406: akainu_203
+    21300408: akainu_204
+    21300410: akainu_205
+    21300412: akainu_206
+    21300414: akainu_207
+    21300416: akainu_208
+    21300418: akainu_209
+    21300420: akainu_210
+    21300422: akainu_211
+    21300424: akainu_212
+    21300426: akainu_213
+    21300428: akainu_214
+    21300430: akainu_215
+    21300432: akainu_216
+    21300434: akainu_217
+    21300436: akainu_218
+    21300438: akainu_219
+    21300440: akainu_220
+    21300442: akainu_221
+    21300444: akainu_222
+    21300446: akainu_223
+    21300448: akainu_224
+    21300450: akainu_225
+    21300452: akainu_226
+    21300454: akainu_227
+    21300456: akainu_228
+    21300458: akainu_229
+    21300460: akainu_230
+    21300462: akainu_231
+    21300464: akainu_232
+    21300466: akainu_233
+    21300468: akainu_234
+    21300470: akainu_235
+    21300472: akainu_236
+    21300474: akainu_237
+    21300476: akainu_238
+    21300478: akainu_239_ragdol
+    21300480: akainu_240_ragdol
+    21300482: akainu_241_ragdol
+    21300484: akainu_242_ragdol
+    21300486: akainu_243
+    21300488: akainu_244
+    21300490: akainu_245
+    21300492: akainu_246
+    21300494: akainu_247
+    21300496: akainu_248
+    21300498: akainu_249
+    21300500: akainu_250
+    21300502: akainu_251
+    21300504: akainu_252
+    21300506: akainu_253
+    21300508: akainu_254
+    21300510: akainu_255
+    21300512: akainu_256
+    21300514: akainu_257
+    21300516: akainu_258
+    21300518: akainu_259
+    21300520: akainu_260
+    21300522: akainu_261
+    21300524: akainu_262
+    21300526: akainu_263
+    21300528: akainu_264
+    21300530: akainu_265
+    21300532: akainu_266
+    21300534: akainu_267
+    21300536: akainu_268
+    21300538: akainu_269
+    21300540: akainu_270
+    21300542: akainu_271
+    21300544: akainu_272
+    21300546: akainu_273
+    21300548: akainu_274
+    21300550: akainu_275
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akainu_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10524
+        width: 142
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10524
+        width: 144
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 10524
+        width: 143
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 10524
+        width: 143
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_4_idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10323
+        width: 142
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_5_idle
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10323
+        width: 144
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_6_idle
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 10323
+        width: 143
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_7_idle
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 10323
+        width: 142
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_8_walk
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 10121
+        width: 117
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_9_walk
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 10120
+        width: 111
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_10_walk
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 10117
+        width: 116
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_11_walk
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 10116
+        width: 131
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_12_walk
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 10117
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_13_walk
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 10120
+        width: 117
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_14_walk
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 10117
+        width: 102
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_15_walk
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 10119
+        width: 105
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9944
+        width: 162
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 9946
+        width: 174
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 9938
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9709
+        width: 188
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9709
+        width: 121
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 9711
+        width: 132
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_22
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 9709
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 9710
+        width: 168
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_24
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 9709
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_25
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 9710
+        width: 190
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9511
+        width: 145
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 9512
+        width: 152
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_28
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 9515
+        width: 156
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9383
+        width: 165
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 9380
+        width: 169
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 9188
+        width: 173
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 9188
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9188
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 8984
+        width: 165
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8995
+        width: 217
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_36
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 8982
+        width: 236
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_37
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 9061
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_38
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 9018
+        width: 226
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_39
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 9036
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 8988
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_41
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 8998
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 8982
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8977
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_44
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 8984
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8787
+        width: 141
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8930
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8787
+        width: 169
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8786
+        width: 184
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8608
+        width: 178
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 8607
+        width: 195
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_51
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 8609
+        width: 200
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_52
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 8608
+        width: 204
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8430
+        width: 157
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 8432
+        width: 218
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_55
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 8426
+        width: 213
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8235
+        width: 180
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 8232
+        width: 193
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_58
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 8235
+        width: 201
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 8240
+        width: 226
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_60
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 8232
+        width: 234
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_61
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 8240
+        width: 198
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_62_punch
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8040
+        width: 166
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_63_punch
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8040
+        width: 199
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_64_punch
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 8044
+        width: 236
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_65_punch
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 8040
+        width: 248
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_66_punch
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 8045
+        width: 205
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7892
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7896
+        width: 198
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_69
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 7897
+        width: 210
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_70
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 7897
+        width: 199
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_71
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7716
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7719
+        width: 173
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_73
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7720
+        width: 199
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_74
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 7722
+        width: 176
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_75
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 7714
+        width: 169
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_76
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 7714
+        width: 161
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7550
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_78
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7551
+        width: 187
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_79
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 7549
+        width: 179
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_80
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 7545
+        width: 154
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7320
+        width: 152
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_82
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 7322
+        width: 165
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_83
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 7325
+        width: 170
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_84
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 7325
+        width: 175
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_85
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 7324
+        width: 168
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7104
+        width: 168
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_87
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 7108
+        width: 184
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_88
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 7106
+        width: 170
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_89
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 7102
+        width: 182
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_90
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 7105
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_91
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 7105
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_92
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 7104
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_93
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 7104
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_94
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 7113
+        width: 171
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_95
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 7110
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_96
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 7104
+        width: 157
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_97
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 7105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_98
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6914
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_99
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 6918
+        width: 215
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_100
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 6920
+        width: 204
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_101
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 6915
+        width: 196
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_102
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6706
+        width: 173
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6710
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_104
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6707
+        width: 169
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_105
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6707
+        width: 222
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_106
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 6711
+        width: 203
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_107
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 6711
+        width: 192
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_108
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6523
+        width: 212
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_109
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6520
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_110
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 6520
+        width: 193
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_111
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 6524
+        width: 195
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_112
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 6520
+        width: 239
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_113
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 6519
+        width: 229
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6275
+        width: 218
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_115
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 6272
+        width: 201
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_116
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 6278
+        width: 241
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_117
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 6274
+        width: 236
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_118
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 6269
+        width: 208
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_119
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 6270
+        width: 183
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6080
+        width: 163
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_121
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6079
+        width: 189
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_122
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 6079
+        width: 232
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_123
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 6075
+        width: 223
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_124
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 6077
+        width: 198
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_125
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 6077
+        width: 153
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_126
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5859
+        width: 205
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_127
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5860
+        width: 191
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_128
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5860
+        width: 221
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_129
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5857
+        width: 221
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_130
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 5863
+        width: 207
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_131
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 5856
+        width: 200
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_132
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5661
+        width: 190
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5660
+        width: 165
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_134
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 5656
+        width: 185
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_135
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 5655
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_136
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 5656
+        width: 190
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_137
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5619
+        width: 160
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_138
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5619
+        width: 159
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_139
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5613
+        width: 322
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_140
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 5613
+        width: 161
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5423
+        width: 154
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_142
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5422
+        width: 164
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_143
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5423
+        width: 229
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_144
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 5419
+        width: 212
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_145
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 5423
+        width: 213
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_146
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 5423
+        width: 185
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_147
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5203
+        width: 212
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_148
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5207
+        width: 201
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_149
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 5207
+        width: 220
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_150
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 5207
+        width: 209
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_151
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 5204
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_152
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4991
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_153
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4991
+        width: 200
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_154
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4991
+        width: 157
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_155
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 4987
+        width: 243
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_156
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 4987
+        width: 230
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_157
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 4991
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_158
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 4991
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_159
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4758
+        width: 183
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_160
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4753
+        width: 194
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_161
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4755
+        width: 190
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_162
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 4747
+        width: 193
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_163
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4754
+        width: 213
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_164
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 4750
+        width: 215
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_165
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 4750
+        width: 204
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_166
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4538
+        width: 167
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_167
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 4534
+        width: 164
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_168
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 4539
+        width: 236
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_169
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 4535
+        width: 180
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_170
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4552
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_171
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 4535
+        width: 191
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_172
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 4538
+        width: 193
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_173
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4276
+        width: 178
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_174
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 4277
+        width: 183
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_175
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 4276
+        width: 192
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_176
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4279
+        width: 260
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_177
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 4275
+        width: 275
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_178
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4281
+        width: 268
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_179
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 4275
+        width: 274
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_180
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4020
+        width: 272
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_181
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4184
+        width: 447
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_182
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 4154
+        width: 461
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_183
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 4017
+        width: 205
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_184
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3826
+        width: 201
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_185
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3830
+        width: 195
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_186
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3828
+        width: 167
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_187
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3822
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_188
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3828
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_189
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 3823
+        width: 190
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_190
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3619
+        width: 162
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_191
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3619
+        width: 212
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_192
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3615
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_193
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3616
+        width: 163
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_194
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 3615
+        width: 146
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_195
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3543
+        width: 250
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_196
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3539
+        width: 249
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_197
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3539
+        width: 248
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_198
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3539
+        width: 248
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_199
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 3341
+        width: 321
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_200
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 3538
+        width: 252
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_201
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3343
+        width: 175
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_202
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3338
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_203
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3338
+        width: 180
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_204
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3336
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_205
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3339
+        width: 233
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_206
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 3339
+        width: 219
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_207
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3300
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_208
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3293
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_209
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3085
+        width: 155
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_210
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3087
+        width: 188
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_211
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3091
+        width: 206
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_212
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3086
+        width: 179
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_213
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2903
+        width: 145
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_214
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2902
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_215
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2904
+        width: 183
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_216
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2903
+        width: 183
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_217
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2741
+        width: 173
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_218
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2738
+        width: 188
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_219
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2570
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_220
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2570
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_221
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2370
+        width: 153
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_222
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2366
+        width: 169
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_223
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2365
+        width: 205
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_224
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2366
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_225
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2183
+        width: 415
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_226
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1992
+        width: 190
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_227
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2000
+        width: 179
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_228
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1849
+        width: 157
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_229
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1848
+        width: 156
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_230
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1849
+        width: 186
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_231
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1848
+        width: 202
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_232
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1713
+        width: 193
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_233
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1713
+        width: 187
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_234
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1573
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_235
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1399
+        width: 160
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_236
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1395
+        width: 200
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_237
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1397
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_238
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1394
+        width: 158
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_239_ragdol
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1197
+        width: 116
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_240_ragdol
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1196
+        width: 125
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_241_ragdol
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1192
+        width: 161
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_242_ragdol
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1191
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_243
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1032
+        width: 168
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_244
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1030
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_245
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1030
+        width: 178
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_246
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1034
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_247
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 901
+        width: 191
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_248
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 905
+        width: 211
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_249
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 905
+        width: 217
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_250
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 905
+        width: 199
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_251
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 900
+        width: 190
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_252
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 900
+        width: 164
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_253
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 700
+        width: 169
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_254
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 700
+        width: 165
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_255
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 698
+        width: 161
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_256
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 698
+        width: 154
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_257
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 700
+        width: 148
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_258
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 565
+        width: 197
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_259
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 370
+        width: 201
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_260
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 565
+        width: 181
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_261
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 561
+        width: 173
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_262
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 366
+        width: 174
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_263
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 369
+        width: 160
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_264
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 107
+        width: 608
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_265
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 501
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_266
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 111
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_267
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 70
+        width: 192
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_268
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 41
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_269
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 41
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_270
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 41
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_271
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 41
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_272
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 41
+        width: 131
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_273
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 7
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_274
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: akainu_275
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 7
+        width: 153
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

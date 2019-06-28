@@ -1,0 +1,4589 @@
+fileFormatVersion: 2
+guid: 7bc5e87b0202f1e459fee926455dbdef
+timeCreated: 1506430235
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: luffy_0
+    21300002: luffy_1
+    21300004: luffy_2
+    21300006: luffy_3
+    21300008: luffy_4
+    21300010: luffy_5
+    21300012: luffy_6
+    21300014: luffy_7
+    21300016: luffy_8
+    21300018: luffy_9
+    21300020: luffy_10
+    21300022: luffy_11
+    21300024: luffy_12
+    21300026: luffy_13
+    21300028: luffy_14
+    21300030: luffy_15
+    21300032: luffy_16_idle
+    21300034: luffy_17_idle
+    21300036: luffy_18_idle
+    21300038: luffy_19_idle
+    21300040: luffy_20_walk
+    21300042: luffy_21_walk
+    21300044: luffy_22_walk
+    21300046: luffy_23_walk
+    21300048: luffy_24_walk
+    21300050: luffy_25_walk
+    21300052: luffy_26_walk
+    21300054: luffy_27_walk
+    21300056: luffy_28
+    21300058: luffy_29
+    21300060: luffy_30
+    21300062: luffy_31_jump
+    21300064: luffy_32_jump
+    21300066: luffy_33_jump
+    21300068: luffy_34_jump
+    21300070: luffy_35_jump
+    21300072: luffy_36_jump
+    21300074: luffy_37_jump
+    21300076: luffy_38
+    21300078: luffy_39
+    21300080: luffy_40
+    21300082: luffy_41
+    21300084: luffy_42
+    21300086: luffy_43
+    21300088: luffy_44
+    21300090: luffy_45
+    21300092: luffy_46
+    21300094: luffy_47_run
+    21300096: luffy_48_run
+    21300098: luffy_49_run
+    21300100: luffy_50_run
+    21300102: luffy_51_run
+    21300104: luffy_52_run
+    21300106: luffy_53
+    21300108: luffy_54
+    21300110: luffy_55
+    21300112: luffy_56
+    21300114: luffy_57
+    21300116: luffy_58
+    21300118: luffy_59
+    21300120: luffy_60
+    21300122: luffy_61
+    21300124: luffy_62
+    21300126: luffy_63
+    21300128: luffy_64
+    21300130: luffy_65
+    21300132: luffy_66
+    21300134: luffy_67
+    21300136: luffy_68
+    21300138: luffy_69
+    21300140: luffy_70
+    21300142: luffy_71
+    21300144: luffy_72
+    21300146: luffy_73
+    21300148: luffy_74
+    21300150: luffy_75
+    21300152: luffy_76
+    21300154: luffy_77
+    21300156: luffy_78
+    21300158: luffy_79
+    21300160: luffy_80
+    21300162: luffy_81
+    21300164: luffy_82
+    21300166: luffy_83
+    21300168: luffy_84
+    21300170: luffy_85
+    21300172: luffy_86
+    21300174: luffy_87
+    21300176: luffy_88
+    21300178: luffy_89
+    21300180: luffy_90
+    21300182: luffy_91
+    21300184: luffy_92
+    21300186: luffy_93
+    21300188: luffy_94
+    21300190: luffy_95
+    21300192: luffy_96
+    21300194: luffy_97
+    21300196: luffy_98
+    21300198: luffy_99
+    21300200: luffy_100
+    21300202: luffy_101
+    21300204: luffy_102
+    21300206: luffy_103_air_gatlin
+    21300208: luffy_104_air_gatlin
+    21300210: luffy_105
+    21300212: luffy_106_air_gatlin
+    21300214: luffy_107_air_gatlin
+    21300216: luffy_108_air_gatlin
+    21300218: luffy_109
+    21300220: luffy_110
+    21300222: luffy_111
+    21300224: luffy_112
+    21300226: luffy_113
+    21300228: luffy_114
+    21300230: luffy_115_air_gatlin
+    21300232: luffy_116_air_gatlin
+    21300234: luffy_117
+    21300236: luffy_118
+    21300238: luffy_119
+    21300240: luffy_120
+    21300242: luffy_121
+    21300244: luffy_122
+    21300246: luffy_123
+    21300248: luffy_124
+    21300250: luffy_125
+    21300252: luffy_126
+    21300254: luffy_127
+    21300256: luffy_128
+    21300258: luffy_129
+    21300260: luffy_130
+    21300262: luffy_131
+    21300264: luffy_132
+    21300266: luffy_133
+    21300268: luffy_134
+    21300270: luffy_135
+    21300272: luffy_136
+    21300274: luffy_137
+    21300276: luffy_138
+    21300278: luffy_139
+    21300280: luffy_140_gatling
+    21300282: luffy_141_gatling
+    21300284: luffy_142
+    21300286: luffy_143
+    21300288: luffy_144_gatling
+    21300290: luffy_145
+    21300292: luffy_146
+    21300294: luffy_147_gatling
+    21300296: luffy_148
+    21300298: luffy_149
+    21300300: luffy_150_gatling
+    21300302: luffy_151_gatling
+    21300304: luffy_152
+    21300306: luffy_153
+    21300308: luffy_154
+    21300310: luffy_155
+    21300312: luffy_156
+    21300314: luffy_157
+    21300316: luffy_158
+    21300318: luffy_159
+    21300320: luffy_160
+    21300322: luffy_161_pistol
+    21300324: luffy_162_pistol
+    21300326: luffy_163_pistol
+    21300328: luffy_164_pistol
+    21300330: luffy_165_pistol
+    21300332: luffy_166_bazooka
+    21300334: luffy_167_bazooka
+    21300336: luffy_168_bazooka
+    21300338: luffy_169_bazooka
+    21300340: luffy_170_bazooka
+    21300342: luffy_171_bazooka
+    21300344: luffy_172
+    21300346: luffy_173
+    21300348: luffy_174
+    21300350: luffy_175
+    21300352: luffy_176
+    21300354: luffy_177
+    21300356: luffy_178
+    21300358: luffy_179
+    21300360: luffy_180
+    21300362: luffy_181
+    21300364: luffy_182
+    21300366: luffy_183
+    21300368: luffy_184
+    21300370: luffy_185
+    21300372: luffy_186
+    21300374: luffy_187
+    21300376: luffy_188
+    21300378: luffy_189
+    21300380: luffy_190
+    21300382: luffy_191
+    21300384: luffy_192
+    21300386: luffy_193
+    21300388: luffy_194
+    21300390: luffy_195
+    21300392: luffy_196
+    21300394: luffy_197
+    21300396: luffy_198
+    21300398: luffy_199
+    21300400: luffy_200
+    21300402: luffy_201
+    21300404: luffy_202
+    21300406: luffy_203
+    21300408: luffy_204
+    21300410: luffy_205
+    21300412: luffy_206
+    21300414: luffy_207
+    21300416: luffy_208
+    21300418: luffy_209
+    21300420: luffy_210
+    21300422: luffy_211
+    21300424: luffy_212
+    21300426: luffy_213
+    21300428: luffy_214
+    21300430: luffy_215
+    21300432: luffy_216
+    21300434: luffy_217
+    21300436: luffy_218
+    21300438: luffy_219_stamp
+    21300440: luffy_220_stamp
+    21300442: luffy_221_stamp
+    21300444: luffy_222_stamp
+    21300446: luffy_223_stamp
+    21300448: luffy_224_stamp
+    21300450: luffy_225
+    21300452: luffy_226
+    21300454: luffy_227
+    21300456: luffy_228
+    21300458: luffy_229
+    21300460: luffy_230
+    21300462: luffy_231
+    21300464: luffy_232
+    21300466: luffy_233
+    21300468: luffy_234
+    21300470: luffy_235
+    21300472: luffy_236_gear4
+    21300474: luffy_237_gear4
+    21300476: luffy_238_gear4
+    21300478: luffy_239_gear4
+    21300480: luffy_240_gear4
+    21300482: luffy_241_gear4
+    21300484: luffy_242_gear4
+    21300486: luffy_243
+    21300488: luffy_244
+    21300490: luffy_245
+    21300492: luffy_246
+    21300494: luffy_247
+    21300496: luffy_248
+    21300498: luffy_249
+    21300500: luffy_250
+    21300502: luffy_251
+    21300504: luffy_252
+    21300506: luffy_253
+    21300508: luffy_254
+    21300510: luffy_255
+    21300512: luffy_256
+    21300514: luffy_257
+    21300516: luffy_258
+    21300518: luffy_259
+    21300520: luffy_260
+    21300522: luffy_261
+    21300524: luffy_262
+    21300526: luffy_263
+    21300528: luffy_264
+    21300530: luffy_265
+    21300532: luffy_266
+    21300534: luffy_267
+    21300536: luffy_268
+    21300538: luffy_269
+    21300540: luffy_270
+    21300542: luffy_271
+    21300544: luffy_272
+    21300546: luffy_273
+    21300548: luffy_274
+    21300550: luffy_275
+    21300552: luffy_276
+    21300554: luffy_277
+    21300556: luffy_278
+    21300558: luffy_279
+    21300560: luffy_280
+    21300562: luffy_281
+    21300564: luffy_282
+    21300566: luffy_283
+    21300568: luffy_284
+    21300570: luffy_285
+    21300572: luffy_286
+    21300574: luffy_287
+    21300576: luffy_288
+    21300578: luffy_289
+    21300580: luffy_290
+    21300582: luffy_291
+    21300584: luffy_292
+    21300586: luffy_293
+    21300588: luffy_294
+    21300590: luffy_295
+    21300592: luffy_296
+    21300594: luffy_297
+    21300596: luffy_298
+    21300598: luffy_299
+    21300600: luffy_300
+    21300602: luffy_301
+    21300604: luffy_302
+    21300606: luffy_303
+    21300608: luffy_304
+    21300610: luffy_305
+    21300612: luffy_306
+    21300614: luffy_307
+    21300616: luffy_308
+    21300618: luffy_309
+    21300620: luffy_310
+    21300622: luffy_311
+    21300624: luffy_312
+    21300626: luffy_313
+    21300628: luffy_314
+    21300630: luffy_315
+    21300632: luffy_316
+    21300634: luffy_317
+    21300636: luffy_318
+    21300638: luffy_319
+    21300640: luffy_320_hit
+    21300642: luffy_321_hit
+    21300644: luffy_322_hit
+    21300646: luffy_323_hit
+    21300648: luffy_324
+    21300650: luffy_325
+    21300652: luffy_326
+    21300654: luffy_327
+    21300656: luffy_328
+    21300658: luffy_329_getup
+    21300660: luffy_330_getup
+    21300662: luffy_331_getup
+    21300664: luffy_332_getup
+    21300666: luffy_333_getup
+    21300668: luffy_334_getup
+    21300670: luffy_335_getup
+    21300672: luffy_336
+    21300674: luffy_337
+    21300676: luffy_338
+    21300678: luffy_339
+    21300680: luffy_340
+    21300682: luffy_341
+    21300684: luffy_342
+    21300686: luffy_343
+    21300688: luffy_344
+    21300690: luffy_345_dead
+    21300692: luffy_346
+    21300694: luffy_347
+    21300696: luffy_348
+    21300698: luffy_349
+    21300700: luffy_350
+    21300702: luffy_351
+    21300704: luffy_352
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luffy_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8665
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8665
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8665
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8665
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_4
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 8756
+        width: 85
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_5
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 8756
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_6
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 8761
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_7
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8762
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_8
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 8761
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_9
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 8738
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_10
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 8738
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_11
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 8736
+        width: 147
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_12
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 8710
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_13
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 8709
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_14
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 8713
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_15
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 8685
+        width: 210
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_16_idle
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8522
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_17_idle
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8522
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_18_idle
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8522
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_19_idle
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8522
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_20_walk
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8352
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_21_walk
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 8352
+        width: 75
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_22_walk
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8352
+        width: 55
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_23_walk
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8352
+        width: 58
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_24_walk
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 8352
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_25_walk
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 8352
+        width: 84
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_26_walk
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 8352
+        width: 47
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_27_walk
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 8352
+        width: 74
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8218
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8218
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8218
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_31_jump
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8021
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_32_jump
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8021
+        width: 91
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_33_jump
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 8021
+        width: 92
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_34_jump
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8021
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_35_jump
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 8021
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_36_jump
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 8021
+        width: 76
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_37_jump
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 8021
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7882
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7882
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 7882
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7766
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 7766
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 7766
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7617
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7617
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7617
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_47_run
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7465
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_48_run
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 7465
+        width: 97
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_49_run
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7465
+        width: 104
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_50_run
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 7465
+        width: 132
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_51_run
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 7465
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_52_run
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 7465
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7335
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7335
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7335
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7204
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7204
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7204
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7204
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7064
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7064
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 7064
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_63
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 7064
+        width: 123
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_64
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7064
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6915
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6915
+        width: 111
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 6915
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 6915
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 6915
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_70
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 6915
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_71
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 6915
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6777
+        width: 146
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6777
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_74
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6777
+        width: 147
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_75
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 6777
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_76
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 6777
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_77
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 6777
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_78
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 6777
+        width: 138
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_79
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 6777
+        width: 132
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_80
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 6777
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6659
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6659
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6659
+        width: 115
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_84
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 6659
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_85
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6525
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6525
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_87
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 6525
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_88
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 6525
+        width: 212
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_89
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 6525
+        width: 171
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_90
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 6525
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_91
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6359
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_92
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6359
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_93
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6359
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_94
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 6359
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_95
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 6359
+        width: 92
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6150
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_97
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6150
+        width: 85
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_98
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 6150
+        width: 211
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_99
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 6150
+        width: 188
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_100
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 6150
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_101
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 6150
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_103_air_gatlin
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5934
+        width: 175
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_104_air_gatlin
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 5931
+        width: 161
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_106_air_gatlin
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 5924
+        width: 179
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_107_air_gatlin
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5935
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_108_air_gatlin
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5935
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_115_air_gatlin
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 5935
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_116_air_gatlin
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 5935
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_125
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5766
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_126
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5833
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_127
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5766
+        width: 107
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_128
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 5766
+        width: 107
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_129
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 5766
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5612
+        width: 134
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5612
+        width: 166
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_132
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 5612
+        width: 145
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_133
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 5612
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_134
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 5612
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_135
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 5612
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_136
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5612
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_137
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 5612
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_140_gatling
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5431
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_141_gatling
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5431
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_144_gatling
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 5431
+        width: 383
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_147_gatling
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5431
+        width: 367
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_150_gatling
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 5431
+        width: 377
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_151_gatling
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5431
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_161_pistol
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5257
+        width: 185
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_162_pistol
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5257
+        width: 288
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_163_pistol
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5257
+        width: 279
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_164_pistol
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 5257
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_165_pistol
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 5257
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_166_bazooka
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5121
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_167_bazooka
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5121
+        width: 170
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_168_bazooka
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5121
+        width: 177
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_169_bazooka
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 5121
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_170_bazooka
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 5121
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_171_bazooka
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5121
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_172
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4991
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_173
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4991
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_174
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4991
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_175
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4991
+        width: 174
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_176
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 4991
+        width: 175
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_177
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4825
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_178
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4825
+        width: 62
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_179
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4825
+        width: 147
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_180
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4825
+        width: 151
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_181
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4825
+        width: 121
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_182
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4825
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_183
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4645
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_184
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4645
+        width: 167
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_185
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 4645
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_186
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4645
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_187
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 4645
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_188
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 4645
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_189
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 4645
+        width: 171
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_190
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4645
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_191
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 4645
+        width: 106
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_192
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4491
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_193
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4491
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_194
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4556
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_195
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 4491
+        width: 114
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_196
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 4491
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_197
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 4491
+        width: 85
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_198
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 4491
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_199
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4298
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_200
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4298
+        width: 104
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_201
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4298
+        width: 137
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_202
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4298
+        width: 134
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_203
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 4298
+        width: 96
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_204
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4298
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_205
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4148
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_206
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4148
+        width: 101
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_207
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4148
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_208
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 4148
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_209
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 4148
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_210
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3976
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_211
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 3976
+        width: 105
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_212
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3976
+        width: 104
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_213
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3976
+        width: 116
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_214
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3976
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_215
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3976
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_216
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3976
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_217
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3976
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_218
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3976
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_219_stamp
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3715
+        width: 87
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_220_stamp
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 3715
+        width: 101
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_221_stamp
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3715
+        width: 98
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_222_stamp
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3715
+        width: 112
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_223_stamp
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3715
+        width: 112
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_224_stamp
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 3715
+        width: 106
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_225
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_226
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3560
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_227
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3560
+        width: 131
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_228
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3560
+        width: 195
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_229
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3560
+        width: 232
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_230
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 3560
+        width: 244
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_231
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 3560
+        width: 159
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_232
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3560
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_233
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 3560
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_234
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3560
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_235
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3560
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_236_gear4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3303
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_237_gear4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3303
+        width: 126
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_238_gear4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3303
+        width: 156
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_239_gear4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3303
+        width: 164
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_240_gear4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3303
+        width: 166
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_241_gear4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3303
+        width: 166
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_242_gear4
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 3303
+        width: 161
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_243
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 3303
+        width: 245
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_244
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 3303
+        width: 245
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_245
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 3038
+        width: 200
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_246
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3038
+        width: 148
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_247
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 3038
+        width: 147
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_248
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3038
+        width: 241
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_249
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 3038
+        width: 215
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_250
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3038
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_251
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3038
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_252
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3038
+        width: 155
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_253
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 3038
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_254
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 3038
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_255
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2878
+        width: 114
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_256
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2878
+        width: 176
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_257
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2878
+        width: 159
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_258
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2878
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_259
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2878
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_260
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2878
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_261
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2779
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_262
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2771
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_263
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2789
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_264
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2762
+        width: 122
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_265
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2780
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_266
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2807
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_267
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2743
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_268
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2643
+        width: 181
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_269
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2643
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_270
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2737
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_271
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2685
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_272
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2643
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_273
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2708
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_274
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2726
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_275
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2643
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_276
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2643
+        width: 105
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_277
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2531
+        width: 174
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_278
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2524
+        width: 129
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_279
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2388
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_280
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2388
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_281
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2388
+        width: 122
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_282
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2388
+        width: 138
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_283
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2388
+        width: 186
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_284
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2388
+        width: 107
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_285
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2388
+        width: 113
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_286
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2224
+        width: 112
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_287
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2224
+        width: 126
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_288
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2224
+        width: 125
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_289
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2224
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_290
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2087
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_291
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2087
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_292
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2087
+        width: 133
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_293
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2087
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_294
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1960
+        width: 130
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_295
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1960
+        width: 125
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_296
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1823
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_297
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1823
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_298
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1685
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_299
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1685
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_300
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1685
+        width: 127
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_301
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1685
+        width: 139
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_302
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1547
+        width: 127
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_303
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1547
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_304
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1410
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_305
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1410
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_306
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1288
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_307
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1288
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_308
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1288
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_309
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1288
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_310
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1101
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_311
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1172
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_312
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1172
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_313
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1056
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_314
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1056
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_315
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 836
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_316
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 923
+        width: 132
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_317
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 923
+        width: 149
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_318
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 923
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_319
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 923
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_320_hit
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 763
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_321_hit
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 763
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_322_hit
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 763
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_323_hit
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 763
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_324
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 553
+        width: 232
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_325
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 632
+        width: 127
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_326
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 632
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_327
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 632
+        width: 131
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_328
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 632
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_329_getup
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 486
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_330_getup
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 485
+        width: 150
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_331_getup
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 485
+        width: 152
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_332_getup
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 485
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_333_getup
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 485
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_334_getup
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 485
+        width: 144
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_335_getup
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 485
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_336
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 267
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_337
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 308
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_338
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 308
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_339
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 308
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_340
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 308
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_341
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 185
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_342
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 185
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_343
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 185
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_344
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 185
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_345_dead
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 142
+        width: 145
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_346
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_347
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 92
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_348
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 9
+        width: 85
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_349
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 9
+        width: 85
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_350
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 9
+        width: 86
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_351
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 9
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: luffy_352
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 12
+        width: 259
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
